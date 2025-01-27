@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Lecture Hall A",
+      "distance": "200m"
+    },
+    {
+      "id": 2,
+      "name": "Lecture Hall B",
+      "distance": "450m"
+    },
+    {
+      "id": 3,
+      "name": "Lecture Hall C",
+      "distance": "300m"
+    },
+    {
+      "id": 4,
+      "name": "Lecture Hall D",
+      "distance": "600m"
+    },
+    {
+      "id": 5,
+      "name": "Lecture Hall E",
+      "distance": "150m"
+    },
+    {
+      "id": 6,
+      "name": "Lecture Hall C",
+      "distance": "300m"
+    },
+    {
+      "id": 7,
+      "name": "Lecture Hall D",
+      "distance": "600m"
+    },
+    {
+      "id": 8,
+      "name": "Lecture Hall E",
+      "distance": "150m"
+    }
+  ]
+  

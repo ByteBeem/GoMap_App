@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "GoMap",
+    "slug": "GoMap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/go-map.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/go-map.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/go-map.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bytebeem.GoMap"
+    },
+    "web": {
+      "favicon": "./assets/go-map.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "54f7b697-06ed-482c-9925-8b44c1b63f58"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "androidAppId": "ca-app-pub-xxxxxxxx~xxxxxxxx",
+    "iosAppId": "ca-app-pub-xxxxxxxx~xxxxxxxx"
+  }
+}
